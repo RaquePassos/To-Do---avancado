@@ -1,4 +1,4 @@
-# To DO - avancado
+# To Do - avancado
 
 ## 📌Tecnologias utilizadas:
 ### HTML
